@@ -11,6 +11,10 @@ Press "+" or "-" on serial monitor to increase or decrease rpm.
 
 See attached schematic to drive the cluster rpm
 
+
+How to calculate the resistors and transistors:
+http://www.w9xt.com/page_microdesign_pt12_hv_pnp_switching.html
+                                                                          
                                                                                                                    
 */
 
